@@ -1,0 +1,2 @@
+#!/bin/basih
+find PATH | wc -l
